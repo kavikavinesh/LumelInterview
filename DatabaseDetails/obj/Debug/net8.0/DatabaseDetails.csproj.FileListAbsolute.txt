@@ -1,0 +1,14 @@
+C:\interview\salesdetails\DatabaseDetails\bin\Debug\net8.0\DatabaseDetails.exe
+C:\interview\salesdetails\DatabaseDetails\bin\Debug\net8.0\DatabaseDetails.deps.json
+C:\interview\salesdetails\DatabaseDetails\bin\Debug\net8.0\DatabaseDetails.runtimeconfig.json
+C:\interview\salesdetails\DatabaseDetails\bin\Debug\net8.0\DatabaseDetails.dll
+C:\interview\salesdetails\DatabaseDetails\bin\Debug\net8.0\DatabaseDetails.pdb
+C:\interview\salesdetails\DatabaseDetails\obj\Debug\net8.0\DatabaseDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\interview\salesdetails\DatabaseDetails\obj\Debug\net8.0\DatabaseDetails.AssemblyInfoInputs.cache
+C:\interview\salesdetails\DatabaseDetails\obj\Debug\net8.0\DatabaseDetails.AssemblyInfo.cs
+C:\interview\salesdetails\DatabaseDetails\obj\Debug\net8.0\DatabaseDetails.csproj.CoreCompileInputs.cache
+C:\interview\salesdetails\DatabaseDetails\obj\Debug\net8.0\DatabaseDetails.dll
+C:\interview\salesdetails\DatabaseDetails\obj\Debug\net8.0\refint\DatabaseDetails.dll
+C:\interview\salesdetails\DatabaseDetails\obj\Debug\net8.0\DatabaseDetails.pdb
+C:\interview\salesdetails\DatabaseDetails\obj\Debug\net8.0\DatabaseDetails.genruntimeconfig.cache
+C:\interview\salesdetails\DatabaseDetails\obj\Debug\net8.0\ref\DatabaseDetails.dll

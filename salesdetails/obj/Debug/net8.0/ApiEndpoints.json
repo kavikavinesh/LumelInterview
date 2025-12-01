@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "salesdetails.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[salesdetails.WeatherForecast, salesdetails, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  },
+  {
+    "ContainingType": "salesdetails.Controllers.WeatherForecastController",
+    "Method": "GetCustomerDetails",
+    "RelativePath": "WeatherForecast/GetCustomerDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Request",
+        "Type": "salesdetails.Model.getCustomerproductRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "salesdetails.Controllers.WeatherForecastController",
+    "Method": "GetTotalcustomer",
+    "RelativePath": "WeatherForecast/GetTotalcustomerperday",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "salesdetails.Controllers.WeatherForecastController",
+    "Method": "saveCustomer",
+    "RelativePath": "WeatherForecast/SaveCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Request",
+        "Type": "salesdetails.Model.saveCustomerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "salesdetails.Controllers.WeatherForecastController",
+    "Method": "SaveCustomerdetails",
+    "RelativePath": "WeatherForecast/SaveCustomerdetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Request",
+        "Type": "salesdetails.Model.saveCustomerproductRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "salesdetails.Controllers.WeatherForecastController",
+    "Method": "saveProduct",
+    "RelativePath": "WeatherForecast/SaveProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Request",
+        "Type": "salesdetails.Model.saveProductRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "salesdetails.Controllers.WeatherForecastController",
+    "Method": "GetCustomerAnalysis",
+    "RelativePath": "WeatherForecast/TotalNoOFOrdersAndcustomerperday",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
